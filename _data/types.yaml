@@ -10,6 +10,10 @@ lead-scientist:
   icon: fa-solid fa-microscope
   description: Lead Scientist
 
+dna-icon:
+  icon: fa-solid fa-dna
+  description: Bioinformatician
+
 phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
