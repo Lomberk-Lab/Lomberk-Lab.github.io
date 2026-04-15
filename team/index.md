@@ -7,7 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Our team focuses on epigenetic mechanisms that drive pancreatic cancer by combining molecular biology and computational approaches. We leverage these insights to develop and test targeted experimental therapeutics. Our laboratory is actively recruiting for a Research Technician as well as graduate students who take pride in rigorous science and is eager to develop their skills within a collaborative, discovery-driven research environment. Please reach out to Dr. Lomberk if interested!
+Our team focuses on epigenetic mechanisms that drive pancreatic cancer by combining molecular biology and computational approaches. We leverage these insights to develop and test targeted experimental therapeutics. 
+
+Our laboratory is actively recruiting for a Research Technician as well as graduate students who take pride in rigorous science and is eager to develop their skills within a collaborative, discovery-driven research environment. Please inquire with Dr. Gwen Lomberk if you are interested in joining our team!
 
 {% include section.html %}
 
