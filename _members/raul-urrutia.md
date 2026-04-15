@@ -1,7 +1,7 @@
 ---
 name: Raul Urrutia, MD
-image: images/Raul.jpg
-role: Lead Scientist
+image: images/Raul-Urrutia.jpg
+role: lead-scientist
 affiliation: Computational Structural Genomics and Drug Discovery Team, Mayo Clinic Arizona
 ---
 
