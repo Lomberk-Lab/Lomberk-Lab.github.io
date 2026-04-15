@@ -3,7 +3,7 @@
 
 # Welcome to the Lomberk Laboratory!
 
-Our lab investigates how epigenomic regulators, including chromatin-modifying enzymes and remodeling complexes, control gene expression programs downstream of oncogenic signaling, shape DNA damage responses, and drive disease progression, with particular interest in pancreatic cancer. By employing cellular and molecular biology workflows, our laboratory remains at the forefront of cancer and inflammatory disease biology with findings translating directly to therapeutic development. 
+Our lab investigates how epigenomic regulators, including chromatin-modifying enzymes and remodeling complexes, control gene expression programs downstream of oncogenic signaling, shape DNA damage responses, and drive disease progression, with particular interest in pancreatic cancer. By employing cellular and molecular biology techniques, our work remains at the forefront of cancer and inflammatory disease biology directly supporting novel therapeutic discovery. 
 
 We are always interested in collaborative opportunities across disciplines, and welcome inquiries from researchers and clinicians. Please feel free to reach out to Dr. Gwen Lomberk to explore potential partnerships.
 
