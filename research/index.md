@@ -11,4 +11,4 @@ nav:
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" filters="gwen-lomberk:true" style="rich" %}
+{% include list.html data="citations" component="citation" filters="gwen-lomberk:true"%}
