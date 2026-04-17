@@ -13,7 +13,7 @@ We are always interested in collaborative opportunities across disciplines, and 
 
 {% capture text %}
 
-Explore recent work from our team highlighting epigenetic regulation in disease and supporting ongoing translational research efforts.
+Explore recent work from our team highlighting epigenetic regulation in disease and ongoing translational research efforts.
 
 {%
   include button.html
@@ -36,7 +36,8 @@ Explore recent work from our team highlighting epigenetic regulation in disease 
 
 {% capture text %}
 
-NEED LITTLE BLURB HERE ABOUT PROJECTS
+To understand how we can better target pancreatic cancer, we need to look beyond the DNA sequence itself and consider how the genome is regulated at a higher level.
+This brings us to epigenomics.
 
 {%
   include button.html
@@ -51,7 +52,7 @@ NEED LITTLE BLURB HERE ABOUT PROJECTS
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Epigenetics.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -76,7 +77,7 @@ Our interdisciplinary team works across epigenetics, cellular and molecular biol
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Lomberk-Urrutia_Lab_MCW.jpg"
   link="team"
   title="Our Team"
   text=text
