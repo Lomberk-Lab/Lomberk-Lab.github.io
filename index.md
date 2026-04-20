@@ -62,7 +62,7 @@ This brings us to epigenomics.
 
 {% capture text %}
 
-Our interdisciplinary team works across epigenetics, cellular and molecular biology, and computational biochemistry. By adopting this collaborative approach, we work to inform and accelerate targeting strategies across various diseases. 
+Our interdisciplinary team works collaboratively across epigenetics, cellular and molecular biology, and computational biochemistry to inform and accelerate targeting strategies across various diseases. 
 
 {%
   include button.html
