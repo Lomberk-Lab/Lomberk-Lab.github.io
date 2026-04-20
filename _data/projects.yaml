@@ -1,47 +1,14 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Exploring the role of epigenetic regulators in cellular responses to KRAS driven stress
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
+  description: KRAS mutations occur in over 90% of PDAC tumors. These mutations are often early events observed in pre-malignant lesions, along with changes to nuclear shape and chromatin. Investigation into what drives these changes in epigenetic states may result in more effective personalized therapies.
+  
+- title: The Histone H3K9 Methyltransferase G9a 
+  subtitle: Mediates Overcoming Replication Stress in PDAC
+  image: images/G9a_Chart.jpg
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
+- title: Protein Arginine Methyltransferase 5 (PRMT5)
+  subtitle: Contributes to PDAC Cell Survival via Formation of Stress Granules
+  image: images/PRMT5_Chart.jpg
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
-
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
