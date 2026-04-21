@@ -16,7 +16,31 @@ Our lab investigates how epigenomic regulators, including chromatin-modifying en
 ## Leveraging Epigenomics-Based Mechanisms to Inform Therapeutic Strategies in PDAC 
 KRAS mutations occur in over 90% of PDAC tumors. These mutations are often early events observed in pre-malignant lesions, along with changes to nuclear shape and chromatin organization. Investigation into the driving forces of these changes in epigenetic states may result in more effective personalized therapies.
 
+{%
+  include feature.html
+  image="images/triple-code-2.jpg"
+%}
 
 {% include section.html %}
 
-{% include list.html component="card" data="projects" filter="!group" %}
+{%
+  include feature.html
+  image="images/G9a_Chart.jpg"
+%}
+
+{% capture text %}
+
+G9a blurb
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/PRMT5_Chart.jpg"
+%}
+
+{% capture text %}
+
+PRMT5 blurb
+
+{% endcapture %}
